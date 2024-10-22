@@ -1,0 +1,21 @@
+table,
+th,
+tr,
+td {
+    border: 1px solid rgb(235, 231, 231);
+    border-collapse: collapse;
+
+    height: 40px;
+}
+
+#one {
+    background-color: black;
+    color: white;
+    width: 100px;
+
+}
+
+#me {
+    background-color: gray;
+    color: white;
+}
