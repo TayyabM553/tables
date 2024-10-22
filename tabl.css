@@ -1,0 +1,19 @@
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+    margin-left: 400px;
+    width: 700px;
+    height: 40px;
+}
+
+#me{
+    background-color: rgb(16, 65, 170);
+    color: white;
+}
+#tt{
+     background-color: gray;
+     color:white;
+     text-align: center;
+}
